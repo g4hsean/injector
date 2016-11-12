@@ -244,6 +244,11 @@ _Pvt_Extensions
 .paket/paket.exe
 paket-files/
 
+#VIsual Studio solution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
 # FAKE - F# Make
 .fake/
 
